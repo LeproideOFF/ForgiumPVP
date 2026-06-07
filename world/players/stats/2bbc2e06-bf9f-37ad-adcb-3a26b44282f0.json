@@ -1,39 +1,43 @@
 {
   "stats": {
     "minecraft:picked_up": {
-      "minecraft:dirt": 2
+      "minecraft:dirt": 2,
+      "minecraft:comparator": 1
     },
     "minecraft:mined": {
       "minecraft:dirt": 1,
       "minecraft:grass_block": 1
     },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 19442,
-      "minecraft:walk_one_cm": 17514,
-      "minecraft:leave_game": 1,
-      "minecraft:walk_under_water_one_cm": 5101,
-      "minecraft:damage_taken": 1650,
-      "minecraft:damage_dealt": -97,
-      "minecraft:play_time": 19442,
-      "minecraft:jump": 59,
-      "minecraft:time_since_death": 19442,
+      "minecraft:time_since_rest": 48203,
+      "minecraft:walk_one_cm": 25767,
+      "minecraft:leave_game": 2,
+      "minecraft:walk_under_water_one_cm": 6247,
+      "minecraft:damage_taken": 1764,
+      "minecraft:damage_dealt": 147,
+      "minecraft:play_time": 48203,
+      "minecraft:jump": 195,
+      "minecraft:time_since_death": 48203,
       "minecraft:drop": 1,
-      "minecraft:sprint_one_cm": 5621,
-      "minecraft:fall_one_cm": 24498,
+      "minecraft:sprint_one_cm": 16397,
+      "minecraft:fall_one_cm": 32524,
       "minecraft:swim_one_cm": 1250,
-      "minecraft:total_world_time": 19442,
-      "minecraft:fly_one_cm": 11803,
+      "minecraft:total_world_time": 48203,
+      "minecraft:fly_one_cm": 49955,
       "minecraft:walk_on_water_one_cm": 86,
-      "minecraft:crouch_one_cm": 25,
-      "minecraft:sneak_time": 28
+      "minecraft:crouch_one_cm": 174,
+      "minecraft:sneak_time": 79,
+      "minecraft:player_kills": 1
     },
     "minecraft:used": {
-      "minecraft:wind_charge": 9,
-      "minecraft:splash_potion": 5,
-      "minecraft:diamond_sword": 4,
+      "minecraft:wind_charge": 21,
+      "minecraft:splash_potion": 12,
+      "minecraft:netherite_sword": 2,
+      "minecraft:end_crystal": 2,
+      "minecraft:diamond_sword": 57,
       "minecraft:ender_pearl": 5,
-      "minecraft:mace": 5,
-      "minecraft:obsidian": 5
+      "minecraft:mace": 14,
+      "minecraft:obsidian": 6
     },
     "minecraft:dropped": {
       "minecraft:wind_charge": 1

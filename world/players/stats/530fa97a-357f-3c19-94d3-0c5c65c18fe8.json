@@ -1,20 +1,26 @@
 {
   "stats": {
+    "minecraft:killed_by": {
+      "minecraft:player": 1
+    },
     "minecraft:custom": {
-      "minecraft:time_since_rest": 21185,
+      "minecraft:time_since_rest": 23734,
+      "minecraft:walk_one_cm": 510,
+      "minecraft:leave_game": 1,
       "minecraft:walk_under_water_one_cm": 1363,
-      "minecraft:damage_taken": 1723,
-      "minecraft:play_time": 21185,
+      "minecraft:damage_taken": 8411,
+      "minecraft:play_time": 50179,
       "minecraft:damage_dealt": 33,
-      "minecraft:jump": 13,
-      "minecraft:time_since_death": 21185,
+      "minecraft:jump": 52,
+      "minecraft:time_since_death": 23686,
       "minecraft:fall_one_cm": 2438,
       "minecraft:swim_one_cm": 3068,
-      "minecraft:total_world_time": 21185,
-      "minecraft:fly_one_cm": 270,
+      "minecraft:total_world_time": 50179,
+      "minecraft:fly_one_cm": 3405,
       "minecraft:walk_on_water_one_cm": 6,
-      "minecraft:crouch_one_cm": 1187,
-      "minecraft:sneak_time": 21140
+      "minecraft:crouch_one_cm": 2886,
+      "minecraft:sneak_time": 26694,
+      "minecraft:deaths": 1
     },
     "minecraft:used": {
       "minecraft:diamond_sword": 3
