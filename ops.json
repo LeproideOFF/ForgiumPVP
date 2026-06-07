@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "2bbc2e06-bf9f-37ad-adcb-3a26b44282f0",
+    "name": "Leproide_",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0a1c67aa-b1e1-4a93-a742-2fd200acffe3",
+    "name": "Leproide_",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
