@@ -1,20 +1,20 @@
 {
   "stats": {
     "minecraft:custom": {
-      "minecraft:time_since_rest": 11067,
+      "minecraft:time_since_rest": 21185,
       "minecraft:walk_under_water_one_cm": 1363,
-      "minecraft:damage_taken": 715,
-      "minecraft:play_time": 11067,
+      "minecraft:damage_taken": 1723,
+      "minecraft:play_time": 21185,
       "minecraft:damage_dealt": 33,
-      "minecraft:jump": 8,
-      "minecraft:time_since_death": 11067,
-      "minecraft:fall_one_cm": 2196,
+      "minecraft:jump": 13,
+      "minecraft:time_since_death": 21185,
+      "minecraft:fall_one_cm": 2438,
       "minecraft:swim_one_cm": 3068,
-      "minecraft:total_world_time": 11067,
-      "minecraft:fly_one_cm": 40,
+      "minecraft:total_world_time": 21185,
+      "minecraft:fly_one_cm": 270,
       "minecraft:walk_on_water_one_cm": 6,
-      "minecraft:crouch_one_cm": 559,
-      "minecraft:sneak_time": 11046
+      "minecraft:crouch_one_cm": 1187,
+      "minecraft:sneak_time": 21140
     },
     "minecraft:used": {
       "minecraft:diamond_sword": 3
