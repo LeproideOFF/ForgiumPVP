@@ -1,112 +1,108 @@
-[21:44:52] [ServerMain/INFO]: [bootstrap] Running Java 26 (Java HotSpot(TM) 64-Bit Server VM 26.0.1+8-34; Oracle Corporation null) on Mac OS X 26.5.1 (aarch64)
-[21:44:52] [ServerMain/INFO]: [bootstrap] Loading Purpur 26.1.2-2591-HEAD@bb69e15 (2026-06-03T22:24:27Z) for Minecraft 26.1.2
-[21:44:52] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:44:52] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
-[21:44:52] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[11:40:47] [ServerMain/INFO]: [bootstrap] Running Java 26 (Java HotSpot(TM) 64-Bit Server VM 26.0.1+8-34; Oracle Corporation null) on Mac OS X 26.5.1 (aarch64)
+[11:40:47] [ServerMain/INFO]: [bootstrap] Loading Purpur 26.1.2-2591-HEAD@bb69e15 (2026-06-03T22:24:27Z) for Minecraft 26.1.2
+[11:40:47] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[11:40:47] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[11:40:47] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - PlugManX (3.0.3)
-[21:44:52] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+[11:40:47] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
  - ForgiumPVP (1.0-SNAPSHOT), WorldEdit (7.4.3+7515-78babeb)
-[21:44:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
-[21:44:54] [ServerMain/INFO]: Loaded 1515 recipes
-[21:44:54] [ServerMain/INFO]: Loaded 1617 advancements
-[21:44:54] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[21:44:54] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 98,3ms
-[21:44:55] [Server thread/INFO]: Starting minecraft server version 26.1.2
-[21:44:55] [Server thread/INFO]: Loading properties
-[21:44:55] [Server thread/INFO]: This server is running Purpur version 26.1.2-2591-HEAD@bb69e15 (2026-06-03T22:24:27Z) (Implementing API version 26.1.2.build.2591-stable)
-[21:44:55] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:44:55] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:44:55] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:44:55] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
-[21:44:55] [Server thread/INFO]: Default game type: SURVIVAL
-[21:44:55] [Server thread/INFO]: Generating keypair
-[21:44:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:44:55] [Server thread/INFO]: Paper: Using libdeflate (macOS ARM64 / Apple Silicon) compression from Velocity.
-[21:44:55] [Server thread/INFO]: Paper: Using native (macOS ARM64 / Apple Silicon) cipher from Velocity.
-[21:44:56] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v3.0.3
-[21:44:56] [Server thread/INFO]: [ForgiumPVP] Loading server plugin ForgiumPVP v1.0-SNAPSHOT
-[21:44:56] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.4.3+7515-78babeb
-[21:44:56] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2dbb0656]
-[21:44:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:44:56] [Server thread/INFO]: [PlugManX] Enabling PlugManX v3.0.3
-[21:44:56] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[21:44:56] [Server thread/WARN]: [PlugManX] It seems like you're running on paper.
-[21:44:56] [Server thread/WARN]: [PlugManX] PlugManX cannot interact with paper-plugins, yet.
-[21:44:56] [Server thread/WARN]: [PlugManX] Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
-[21:44:56] [Server thread/WARN]: [PlugManX] Or create an issue on GitHub: https://github.com/Test-Account666/PlugMan
-[21:44:56] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-[21:44:56] [Server thread/INFO]: [PlugManX] You can disable this warning by setting 'showPaperWarning' to false in the config.yml
-[21:44:56] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.4.3+7515-78babeb
-[21:44:56] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[21:44:56] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[21:44:56] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v26_1.PaperweightAdapter as the Bukkit adapter
-[21:44:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:44:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:44:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:44:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:44:56] [Server thread/INFO]: Preparing level "world"
-[21:44:56] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
-[21:44:56] [Server thread/INFO]: Preparing spawn area: 100%
-[21:44:56] [Server thread/INFO]: Prepared spawn area in 1 ms
-[21:44:56] [Server thread/INFO]: Done preparing level "world" (0.276s)
-[21:44:56] [Server thread/INFO]: [ForgiumPVP] Enabling ForgiumPVP v1.0-SNAPSHOT
-[21:44:56] [Server thread/INFO]: [ForgiumPVP] ForgiumPVP initialising...
-[21:44:56] [Server thread/INFO]: [fr.forgium.pvp.libs.hikari.HikariDataSource] ForgiumPVP-Pool - Starting...
-[21:44:57] [Server thread/INFO]: [fr.forgium.pvp.libs.hikari.pool.HikariPool] ForgiumPVP-Pool - Added connection org.sqlite.jdbc4.JDBC4Connection@5471b1ca
-[21:44:57] [Server thread/INFO]: [fr.forgium.pvp.libs.hikari.HikariDataSource] ForgiumPVP-Pool - Start completed.
-[21:44:57] [Server thread/INFO]: [ForgiumPVP] ForgiumPVP has been enabled successfully!
-[21:44:57] [Server thread/INFO]: [spark] The spark profiler will not be enabled because it is currently disabled in the configuration.
-[21:44:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:44:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[21:44:57] [Server thread/INFO]: Running delayed init tasks
-[21:44:57] [Server thread/INFO]: Done (5.541s)! For help, type "help"
-[21:44:57] [User Authenticator #0/INFO]: UUID of player test is 530fa97a-357f-3c19-94d3-0c5c65c18fe8
-[21:44:57] [Server thread/INFO]: test joined the game
-[21:44:57] [Server thread/INFO]: test[/127.0.0.1:64374] logged in with entity id 5 at ([minecraft:overworld]61.0, 82.0, -137.0)
-[21:45:01] [User Authenticator #1/INFO]: UUID of player Leproide_ is 2bbc2e06-bf9f-37ad-adcb-3a26b44282f0
-[21:45:02] [Server thread/INFO]: Leproide_ joined the game
-[21:45:02] [Server thread/INFO]: Leproide_[/127.0.0.1:64376] logged in with entity id 55 at ([minecraft:overworld]61.0, 82.0, -137.0)
-[21:45:15] [Server thread/ERROR]: Unknown biome, defaulting to plains
-[21:45:15] [Server thread/INFO]: Selecting spawn point for level 'minecraft:match-455b9c34'...
-[21:45:15] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:match-455b9c34'...
-[21:45:15] [Server thread/INFO]: Preparing spawn area: 100%
-[21:45:15] [Server thread/INFO]: Prepared spawn area in 227 ms
-[21:45:22] [Server thread/INFO]: Leproide_ issued server command: /fa
-[21:45:25] [Server thread/INFO]: Leproide_ issued server command: /gamemode survival
-[21:59:13] [Server thread/INFO]: Leproide_ lost connection: Disconnected
-[21:59:13] [Server thread/INFO]: Leproide_ left the game
-[21:59:15] [Server thread/INFO]: test lost connection: Disconnected
-[21:59:15] [Server thread/INFO]: test left the game
-[22:32:44] [Server thread/INFO]: Stopping the server
-[22:32:44] [Server thread/INFO]: Stopping server
-[22:32:44] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.4.3+7515-78babeb
-[22:32:44] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[22:32:44] [Server thread/INFO]: [ForgiumPVP] Disabling ForgiumPVP v1.0-SNAPSHOT
-[22:32:44] [Server thread/INFO]: [fr.forgium.pvp.libs.hikari.HikariDataSource] ForgiumPVP-Pool - Shutdown initiated...
-[22:32:44] [Server thread/INFO]: [fr.forgium.pvp.libs.hikari.HikariDataSource] ForgiumPVP-Pool - Shutdown completed.
-[22:32:44] [Server thread/INFO]: [ForgiumPVP] ForgiumPVP has been disabled.
-[22:32:44] [Server thread/INFO]: [PlugManX] Disabling PlugManX v3.0.3
-[22:32:44] [Server thread/INFO]: Saving players
-[22:32:44] [Server thread/INFO]: Saving worlds
-[22:32:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:32:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
-[22:32:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
-[22:32:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
-[22:32:44] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:overworld' in 0,01s
-[22:32:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:overworld'
-[22:32:44] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:overworld'
-[22:32:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:match-455b9c34
-[22:32:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:match-455b9c34'
-[22:32:44] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:match-455b9c34'
-[22:32:44] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:match-455b9c34'
-[22:32:44] [Server thread/INFO]: [ChunkHolderManager] Saved 2351 block chunks, 701 entity chunks, 0 poi chunks in world 'minecraft:match-455b9c34' in 0,20s
-[22:32:44] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:match-455b9c34'
-[22:32:44] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:match-455b9c34'
-[22:32:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:32:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (match-455b9c34): All chunks are saved
-[22:32:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[22:32:44] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[22:32:44] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[22:32:44] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[22:32:44] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[11:40:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[11:40:49] [ServerMain/INFO]: Loaded 1515 recipes
+[11:40:49] [ServerMain/INFO]: Loaded 1617 advancements
+[11:40:49] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[11:40:49] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 99,5ms
+[11:40:50] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[11:40:50] [Server thread/INFO]: Loading properties
+[11:40:50] [Server thread/INFO]: This server is running Purpur version 26.1.2-2591-HEAD@bb69e15 (2026-06-03T22:24:27Z) (Implementing API version 26.1.2.build.2591-stable)
+[11:40:50] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[11:40:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:40:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:40:50] [Server thread/INFO]: [MoonriseCommon] Paper is using 2 worker threads, 1 I/O threads
+[11:40:50] [Server thread/INFO]: Default game type: SURVIVAL
+[11:40:50] [Server thread/INFO]: Generating keypair
+[11:40:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:40:51] [Server thread/INFO]: Paper: Using libdeflate (macOS ARM64 / Apple Silicon) compression from Velocity.
+[11:40:51] [Server thread/INFO]: Paper: Using native (macOS ARM64 / Apple Silicon) cipher from Velocity.
+[11:40:51] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v3.0.3
+[11:40:51] [Server thread/INFO]: [ForgiumPVP] Loading server plugin ForgiumPVP v1.0-SNAPSHOT
+[11:40:51] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.4.3+7515-78babeb
+[11:40:51] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3cf2fa6c]
+[11:40:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:40:51] [Server thread/INFO]: [PlugManX] Enabling PlugManX v3.0.3
+[11:40:51] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[11:40:51] [Server thread/WARN]: [PlugManX] It seems like you're running on paper.
+[11:40:51] [Server thread/WARN]: [PlugManX] PlugManX cannot interact with paper-plugins, yet.
+[11:40:51] [Server thread/WARN]: [PlugManX] Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
+[11:40:51] [Server thread/WARN]: [PlugManX] Or create an issue on GitHub: https://github.com/Test-Account666/PlugMan
+[11:40:51] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[11:40:51] [Server thread/INFO]: [PlugManX] You can disable this warning by setting 'showPaperWarning' to false in the config.yml
+[11:40:51] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.4.3+7515-78babeb
+[11:40:51] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[11:40:51] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[11:40:51] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v26_1.PaperweightAdapter as the Bukkit adapter
+[11:40:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:40:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:40:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:40:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:40:51] [Server thread/INFO]: Preparing level "world"
+[11:40:52] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[11:40:52] [Server thread/INFO]: Preparing spawn area: 100%
+[11:40:52] [Server thread/INFO]: Prepared spawn area in 1 ms
+[11:40:52] [Server thread/INFO]: Done preparing level "world" (0.266s)
+[11:40:52] [Server thread/INFO]: [ForgiumPVP] Enabling ForgiumPVP v1.0-SNAPSHOT
+[11:40:52] [Server thread/INFO]: [ForgiumPVP] ForgiumPVP initialising...
+[11:40:52] [Server thread/INFO]: [fr.forgium.pvp.libs.hikari.HikariDataSource] ForgiumPVP-Pool - Starting...
+[11:40:52] [Server thread/INFO]: [fr.forgium.pvp.libs.hikari.pool.HikariPool] ForgiumPVP-Pool - Added connection org.sqlite.jdbc4.JDBC4Connection@36e12e03
+[11:40:52] [Server thread/INFO]: [fr.forgium.pvp.libs.hikari.HikariDataSource] ForgiumPVP-Pool - Start completed.
+[11:40:52] [Server thread/INFO]: [ForgiumPVP] ForgiumPVP has been enabled successfully!
+[11:40:52] [Server thread/INFO]: [spark] The spark profiler will not be enabled because it is currently disabled in the configuration.
+[11:40:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:40:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:40:52] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11:40:52] [Server thread/INFO]: Running delayed init tasks
+[11:40:52] [Server thread/INFO]: Done (5.745s)! For help, type "help"
+[11:40:54] [User Authenticator #0/INFO]: UUID of player Leproide_ is 2bbc2e06-bf9f-37ad-adcb-3a26b44282f0
+[11:40:54] [Server thread/INFO]: Leproide_ joined the game
+[11:40:54] [Server thread/INFO]: Leproide_[/127.0.0.1:49326] logged in with entity id 2 at ([minecraft:overworld]62.32022848822107, 83.0, -242.38061106489974)
+[11:41:10] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:ffa-nodebuff'...
+[11:41:10] [Server thread/INFO]: Prepared spawn area in 0 ms
+[11:41:10] [Server thread/INFO]: Leproide_ has made the advancement [Cover Me with Diamonds]
+[12:45:49] [Server thread/INFO]: Leproide_ lost connection: Disconnected
+[12:45:49] [Server thread/INFO]: Leproide_ left the game
+[18:57:49] [User Authenticator #1/INFO]: UUID of player Leproide_ is 2bbc2e06-bf9f-37ad-adcb-3a26b44282f0
+[18:57:50] [Server thread/INFO]: Leproide_ joined the game
+[18:57:50] [Server thread/INFO]: Leproide_[/127.0.0.1:52288] logged in with entity id 93 at ([minecraft:ffa-nodebuff]-10.006599391245786, 100.0, -11.66293525626035)
+[18:57:59] [Async Chat Thread - #0/INFO]: [Not Secure] §8[§7992§8] Leproide_: t
+[18:58:07] [Server thread/INFO]: Leproide_ lost connection: Disconnected
+[18:58:07] [Server thread/INFO]: Leproide_ left the game
+[22:13:46] [Server thread/INFO]: Stopping server
+[22:13:46] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.4.3+7515-78babeb
+[22:13:46] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[22:13:46] [Server thread/INFO]: [ForgiumPVP] Disabling ForgiumPVP v1.0-SNAPSHOT
+[22:13:46] [Server thread/INFO]: [fr.forgium.pvp.libs.hikari.HikariDataSource] ForgiumPVP-Pool - Shutdown initiated...
+[22:13:46] [Server thread/INFO]: [fr.forgium.pvp.libs.hikari.HikariDataSource] ForgiumPVP-Pool - Shutdown completed.
+[22:13:46] [Server thread/INFO]: [ForgiumPVP] ForgiumPVP has been disabled.
+[22:13:46] [Server thread/INFO]: [PlugManX] Disabling PlugManX v3.0.3
+[22:13:46] [Server thread/INFO]: Saving players
+[22:13:46] [Server thread/INFO]: Saving worlds
+[22:13:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:13:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:overworld'
+[22:13:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:overworld'
+[22:13:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:overworld'
+[22:13:46] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'minecraft:overworld' in 0,02s
+[22:13:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:overworld'
+[22:13:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:overworld'
+[22:13:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:ffa-nodebuff
+[22:13:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'minecraft:ffa-nodebuff'
+[22:13:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'minecraft:ffa-nodebuff'
+[22:13:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'minecraft:ffa-nodebuff'
+[22:13:46] [Server thread/INFO]: [ChunkHolderManager] Saved 642 block chunks, 642 entity chunks, 0 poi chunks in world 'minecraft:ffa-nodebuff' in 0,20s
+[22:13:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'minecraft:ffa-nodebuff'
+[22:13:46] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'minecraft:ffa-nodebuff'
+[22:13:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:13:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (ffa-nodebuff): All chunks are saved
+[22:13:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:13:46] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[22:13:46] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[22:13:46] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[22:13:46] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
